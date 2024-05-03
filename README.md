@@ -7,4 +7,4 @@ This Repository is the portfolio of my learning journey from the [Data Analysis 
 2. [Microsoft Excel](https://github.com/farhantoshi/dataanalysis_bootcamp_pojects/tree/main/excel)
 3. [Tableau](https://github.com/farhantoshi/dataanalysis_bootcamp_pojects/blob/main/AirBnB%20Full%20Project.twbx)
 4. [Microsoft Power BI](https://github.com/farhantoshi/dataanalysis_bootcamp_pojects/tree/main/Power%20BI)
-5. Python
+5. [Python](https://github.com/farhantoshi/DataAnalysis_Bootcamp_Projects/tree/main/Python)
